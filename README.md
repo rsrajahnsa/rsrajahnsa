@@ -1,5 +1,5 @@
-![logo](Shashank.png
-<h1 align="center">Hi 👋, I'm Rutam Rajhansa</h1>
+
+<h1 align="center">Hi 👋, I'm Rutam Rajhansa, Sophomore in Mechanical Engineering at IITJ</h1>
 <h3 align="center">A passionate Machine learning and Deep learning enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pointarcher02&label=Profile%20views&color=0e75b6&style=flat" alt="pointarcher02" /> </p>
@@ -12,16 +12,14 @@
 
 - 📄 Know about my experiences [Rutam_CV]https://drive.google.com/file/d/1u7EFURLmCC1alv6sIx7pOzz6TycZP208/view?usp=sharing
 
-- ⚡ Fun fact **Tech enthusiast,**
+- ⚡ Fun fact **Tech enthusiast, Table-Tennis-Freak, Music-Lover**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shashank-asthana-55269a196/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shashank-asthana-55269a196/" height="30" width="40" /></a>
-<a href="https://kaggle.com/shashankasthana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shashankasthana" height="30" width="40" /></a>
-<a href="https://instagram.com/point.archer02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="point.archer02" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/pointarcher02" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="pointarcher02" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/pointarcher2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pointarcher2002" height="30" width="40" /></a>
-<a href="https://discord.gg/Shashank Asthana#7358" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Shashank Asthana#7358" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rutam-rajhansa-99ba92255/?originalSubdomain=in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rutam-rajhansa-99ba92255/?originalSubdomain=in/" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/rsrajhans" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shashankasthana" height="30" width="40" /></a>
+<a href="https://www.instagram.com/rutam_13r/?next=%2F" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="point.archer02" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/rsrajhansa/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="pointarcher02" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
