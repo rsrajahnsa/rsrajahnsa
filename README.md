@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **b22me055@iitj.ac.in**
 
-- 📄 Know about my experiences [Rutam_CV](https://drive.google.com/file/d/1u7EFURLmCC1alv6sIx7pOzz6TycZP208/view?usp=sharing)
+- 📄 Know about my experiences [Rutam_CV](https://drive.google.com/file/d/1vY1UAO2xxGlEor7wBCc0E4px77m1M-_z/view?usp=drive_link)
 
 - ⚡ Fun fact **Tech enthusiast, Table-Tennis-Freak, Music-Lover**
 
