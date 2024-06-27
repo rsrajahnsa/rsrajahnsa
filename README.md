@@ -12,7 +12,6 @@
 
 - 📄 Know about my experiences [Rutam_CV](https://drive.google.com/file/d/1vY1UAO2xxGlEor7wBCc0E4px77m1M-_z/view?usp=drive_link)
 
-- ⚡ Fun fact **Tech enthusiast, Table-Tennis-Freak, Music-Lover**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
