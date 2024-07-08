@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **b22me055@iitj.ac.in**
 
-- 📄 Know about my experiences [Rutam_CV](https://drive.google.com/file/d/1TWWzQsPdf9d8aUycBy8FfPrg_xvfdDU2/view?usp=sharing)
+- 📄 Know about my experiences [Rutam_CV](https://drive.google.com/file/d/1IpfmRRgaXfIhDHhkJhIpyfur-xbHewZ9/view)
 
 
 <h3 align="left">Connect with me:</h3>
