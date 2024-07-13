@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **a project which involves developing  an Inclusive Interface for Disabled People using Mobile Computing**
 
-- 🌱 I’m currently learning **Deep-Learning, Natural-Language-Processing and Web-Development**
+- 🌱 I’m currently learning **Deep-Learning, Natural-Language-Processing and Data-Structures and Algorithms**
 
 - 📫 How to reach me **b22me055@iitj.ac.in**
 
