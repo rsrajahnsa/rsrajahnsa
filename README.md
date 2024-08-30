@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pointarcher02&label=Profile%20views&color=0e75b6&style=flat" alt="pointarcher02" /> </p>
 
-- 🔭 I’m currently working on **a project which involves developing  an Inclusive Interface for Disabled People using Mobile Computing**
 
 - 🌱 I’m currently learning **Deep-Learning, Natural-Language-Processing and Data-Structures and Algorithms**
 
