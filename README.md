@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pointarcher02&label=Profile%20views&color=0e75b6&style=flat" alt="pointarcher02" /> </p>
 
 
-- 🌱 I’m currently learning **Deep-Learning, Natural-Language-Processing and Data-Structures and Algorithms**
+- 🌱 I’m currently learning **Machine-Learning and Data-Structures and Algorithms**
 
 - 📫 How to reach me **b22me055@iitj.ac.in**
 
