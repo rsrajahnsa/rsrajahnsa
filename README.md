@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **b22me055@iitj.ac.in**
 
-- AI Intern @https://github.com/quark-inc-tech
-
 - 📄 Know about my experiences [Rutam_CV](https://drive.google.com/file/d/1IpfmRRgaXfIhDHhkJhIpyfur-xbHewZ9/view)
 
 
