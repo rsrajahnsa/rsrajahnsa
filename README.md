@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Machine-Learning and Data-Structures and Algorithms**
 
-- 📫 How to reach me **b22me055@iitj.ac.in**
+- 📫 How  me **b22me055@iitj.ac.in**
 
 - 📄 Know about my experiences [Rutam_CV](https://drive.google.com/file/d/1IpfmRRgaXfIhDHhkJhIpyfur-xbHewZ9/view)
 
